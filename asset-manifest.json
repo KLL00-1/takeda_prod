@@ -1,23 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.4b9dbef1.css",
-    "main.js": "/static/js/main.e01b7bf5.js",
-    "static/js/703.8a624270.chunk.js": "/static/js/703.8a624270.chunk.js",
-    "static/js/541.7608bc07.chunk.js": "/static/js/541.7608bc07.chunk.js",
+    "main.css": "/static/css/main.c2f8fc66.css",
+    "main.js": "/static/js/main.b914ed92.js",
     "static/js/787.b2436f83.chunk.js": "/static/js/787.b2436f83.chunk.js",
-    "static/media/fone.png": "/static/media/fone.ae5e2c08c48741fb94b9.png",
     "static/media/2-2.png": "/static/media/2-2.a34d37e24519ce4f5a5f.png",
+    "static/media/GrandisExtended-BlackItalic.ttf": "/static/media/GrandisExtended-BlackItalic.a6bb5697aad1e594bd32.ttf",
+    "static/media/GrandisExtended-Black.ttf": "/static/media/GrandisExtended-Black.cd505dca6e1bdd9d516f.ttf",
+    "static/media/GrandisExtended-Light.ttf": "/static/media/GrandisExtended-Light.309665afd35afaf2bbe1.ttf",
     "static/media/GrandisThin.ttf": "/static/media/GrandisThin.22a5e721c2f069a80c3a.ttf",
     "static/media/upload.png": "/static/media/upload.9ae96881e0a961e4fe1a.png",
     "index.html": "/index.html",
-    "main.4b9dbef1.css.map": "/static/css/main.4b9dbef1.css.map",
-    "main.e01b7bf5.js.map": "/static/js/main.e01b7bf5.js.map",
-    "703.8a624270.chunk.js.map": "/static/js/703.8a624270.chunk.js.map",
-    "541.7608bc07.chunk.js.map": "/static/js/541.7608bc07.chunk.js.map",
+    "main.c2f8fc66.css.map": "/static/css/main.c2f8fc66.css.map",
+    "main.b914ed92.js.map": "/static/js/main.b914ed92.js.map",
     "787.b2436f83.chunk.js.map": "/static/js/787.b2436f83.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b9dbef1.css",
-    "static/js/main.e01b7bf5.js"
+    "static/css/main.c2f8fc66.css",
+    "static/js/main.b914ed92.js"
   ]
 }
